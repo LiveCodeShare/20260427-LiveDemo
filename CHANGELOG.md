@@ -1,3 +1,3 @@
 # CHANGELOG.md
 
-Changing... Finally!!!!
+Final Update!
